@@ -6,6 +6,8 @@
 @section('menu')
 @extends('MyPortfolio/Components/menu')
 
-
+@extends('MyPortfolio/layouts')
+@section('css')
+@extends('MyPortfolio/Components/css')
 
 @endsection

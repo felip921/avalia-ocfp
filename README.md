@@ -18,4 +18,4 @@ composer require laravel/breeze --dev
 php artisan breeze:install
 php artisan migrate
 npm install
-npm run dev./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail upnpm run dev./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up./vendor/bin/sail up
+npm run dev
